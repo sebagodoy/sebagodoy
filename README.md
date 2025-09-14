@@ -1,11 +1,13 @@
 ### Hi, I'm Sebastian. 
 
-I am very fond of molecular simulation and open source, wich goes well with my B.S. and Dr. degrees in Chemical Engineering. 
-I have experience working with DFT, and a bit with MD and MonteCarlo. Also enjoy designing in blender and krita. Check my [page](https://sites.google.com/view/sebagodoygutierrez), find me on [twitter](https://twitter.com/SebaGodoyGut), [LinkedIn](https://www.linkedin.com/in/sebastian-godoy-gutierrez/) or the contact information below
+I am a Chemical Engineer with a doctorate in chemical engineering. I am specialized in molecular simulation and often codes some useful tools for my workflow that I like to share here.
+I have work with periodic-DFT but have some experience with MD and MonteCarlo, and enjoy graphical design in blender and krita. Check my [page](https://sites.google.com/view/sebagodoygutierrez) and find me through the contact information below
 
 **:id: Information:**
 Seba (he/they), from Chile, living in Paris. :speech_balloon:/:pencil: Spanish (native) and english (fluent). Languages :computer:: python and matlab, a little bit of django and html, and learning what I need on the way. Graphics in blender and krita.
-Tools & others commonly used: ![](https://shields.io/badge/ubuntu-lightgrey?logo=ubuntu&style=flat-square)
+Tools & others commonly used: 
+
+![](https://shields.io/badge/ubuntu-lightgrey?logo=ubuntu&style=flat-square)
 ![](https://shields.io/badge/windows-lightgrey?logo=windows&style=flat-square)
 ![](https://shields.io/badge/bash-lightgrey?logo=gnubash&style=flat-square&logoColor=black)
 ![](https://shields.io/badge/git-lightgrey?logo=git&style=flat-square)
@@ -24,10 +26,13 @@ Tools & others commonly used: ![](https://shields.io/badge/ubuntu-lightgrey?logo
 Molecular simulation, Heterogeneous Catalysis and reaction mechanisms, Cluster formation, 3D modeling of systems and lab equipments.
 
 **:information_source: Contact:**
-[![gsite](https://shields.io/badge/Google--Site-9cf?logo=google&style=social)](https://sites.google.com/view/sebagodoygutierrez)
-![gmail](https://shields.io/badge/sebadgogu@gmail.com-black?logo=gmail&style=social)
-![udec](https://shields.io/badge/sebagodoy@udec.com-blue?logo=microsoftoutlook&style=social)
-![udec](https://shields.io/badge/seba.god.gut@outlook.es-blue?logo=microsoftoutlook&style=social)
-[![tw](https://shields.io/badge/@SebaGodoyGut-9cf?logo=twitter&style=social)](https://twitter.com/SebaGodoyGut)
-[![LI](https://shields.io/badge/LinkedIn-9cf?logo=linkedin&style=social)](https://www.linkedin.com/in/sebastian-godoy-gutierrez/)
+
+![Static Badge](https://img.shields.io/badge/google%20page-sebagodoygutierrez-purple?style=flat-square&logo=google&link=https%3A%2F%2Fsites.google.com%2Fview%2Fsebagodoygutierrez%2Fhome)
+![Static Badge](https://img.shields.io/badge/ORCID-0009--0005--4332--8174-green?style=flat-square&logo=orcid&link=https%3A%2F%2Forcid.org%2F0009-0005-4332-8174)
+![Static Badge](https://img.shields.io/badge/Google%20schoolar-Sebastian%20Godoy--Guti%C3%A9rrez-purple?style=flat-square&logo=googlescholar&link=https%3A%2F%2Fscholar.google.com%2Fcitations%3Fuser%3DZKC-axkAAAAJ%26hl%3Den%26oi%3Dao)
+
+
+![Static Badge](https://img.shields.io/badge/profesional%20mail-sebagodoy%40idec.cl-blue?style=flat-square&logo=thunderbird)
+![Static Badge](https://img.shields.io/badge/gmail-sebadgogu%40gmail.com-blue?style=flat-square&logo=gmail)
+![Static Badge](https://img.shields.io/badge/outlook%20mail-seba.god.gut%40outlook.es-blue?style=flat-square&logo=thunderbird)
 
