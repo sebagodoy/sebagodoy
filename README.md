@@ -32,7 +32,7 @@ Molecular simulation, Heterogeneous Catalysis and reaction mechanisms, Cluster f
 [![Static Badge](https://img.shields.io/badge/Google%20schoolar-Sebastian%20Godoy--Guti%C3%A9rrez-purple?style=flat-square&logo=googlescholar&link=https%3A%2F%2Fscholar.google.com%2Fcitations%3Fuser%3DZKC-axkAAAAJ%26hl%3Den%26oi%3Dao)](https://scholar.google.com/citations?user=ZKC-axkAAAAJ&hl=en&oi=ao)
 
 
-![Static Badge](https://img.shields.io/badge/profesional%20mail-sebagodoy%40idec.cl-blue?style=flat-square&logo=thunderbird)
+![Static Badge](https://img.shields.io/badge/profesional%20mail-sebagodoy%40udec.cl-blue?style=flat-square&logo=thunderbird)
 ![Static Badge](https://img.shields.io/badge/gmail-sebadgogu%40gmail.com-blue?style=flat-square&logo=gmail)
 ![Static Badge](https://img.shields.io/badge/outlook%20mail-seba.god.gut%40outlook.es-blue?style=flat-square&logo=thunderbird)
 
