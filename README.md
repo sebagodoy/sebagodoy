@@ -4,8 +4,8 @@ I am a Chemical Engineer with a doctorate in chemical engineering. I am speciali
 I have work with periodic-DFT but have some experience with MD and MonteCarlo, and enjoy graphical design in blender and krita. Check my [page](https://sites.google.com/view/sebagodoygutierrez) and find me through the contact information below
 
 **:id: Information:**
-Seba (he/they), from Chile, living in Paris. :speech_balloon:/:pencil: Spanish (native) and english (fluent). Languages :computer:: python and matlab, a little bit of django and html, and learning what I need on the way. Graphics in blender and krita.
-Tools & others commonly used: 
+Seba (he/they), from Chile, living in Paris. :speech_balloon:/:pencil: Spanish (native), english (fluent) and some basic french. :computer: Codding: python and matlab, a little bit of django and html, and learning what I need on the way. :art:Graphics in Krita (2D) and blender (3D).
+:computer:/:pencil:/:art: Tools & others commonly used: 
 
 ![](https://shields.io/badge/ubuntu-lightgrey?logo=ubuntu&style=flat-square)
 ![](https://shields.io/badge/windows-lightgrey?logo=windows&style=flat-square)
@@ -27,9 +27,9 @@ Molecular simulation, Heterogeneous Catalysis and reaction mechanisms, Cluster f
 
 **:information_source: Contact:**
 
-![Static Badge](https://img.shields.io/badge/google%20page-sebagodoygutierrez-purple?style=flat-square&logo=google&link=https%3A%2F%2Fsites.google.com%2Fview%2Fsebagodoygutierrez%2Fhome)
-![Static Badge](https://img.shields.io/badge/ORCID-0009--0005--4332--8174-green?style=flat-square&logo=orcid&link=https%3A%2F%2Forcid.org%2F0009-0005-4332-8174)
-![Static Badge](https://img.shields.io/badge/Google%20schoolar-Sebastian%20Godoy--Guti%C3%A9rrez-purple?style=flat-square&logo=googlescholar&link=https%3A%2F%2Fscholar.google.com%2Fcitations%3Fuser%3DZKC-axkAAAAJ%26hl%3Den%26oi%3Dao)
+[![Static Badge](https://img.shields.io/badge/google%20page-sebagodoygutierrez-purple?style=flat-square&logo=google&link=https%3A%2F%2Fsites.google.com%2Fview%2Fsebagodoygutierrez%2Fhome)](https://sites.google.com/view/sebagodoygutierrez/home)
+[![Static Badge](https://img.shields.io/badge/ORCID-0009--0005--4332--8174-green?style=flat-square&logo=orcid&link=https%3A%2F%2Forcid.org%2F0009-0005-4332-8174)](https://orcid.org/0009-0005-4332-8174)
+[![Static Badge](https://img.shields.io/badge/Google%20schoolar-Sebastian%20Godoy--Guti%C3%A9rrez-purple?style=flat-square&logo=googlescholar&link=https%3A%2F%2Fscholar.google.com%2Fcitations%3Fuser%3DZKC-axkAAAAJ%26hl%3Den%26oi%3Dao)](https://scholar.google.com/citations?user=ZKC-axkAAAAJ&hl=en&oi=ao)
 
 
 ![Static Badge](https://img.shields.io/badge/profesional%20mail-sebagodoy%40idec.cl-blue?style=flat-square&logo=thunderbird)
