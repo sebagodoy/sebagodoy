@@ -1,7 +1,7 @@
 ### Hi, I'm Sebastian. 
 
 I am a Chemical Engineer with a doctorate in chemical engineering. I am specialized in molecular simulation and often codes some useful tools for my workflow that I like to share here.
-I have work with periodic-DFT but have some experience with MD and MonteCarlo, and enjoy graphical design in blender and krita. Check my [page](https://sites.google.com/view/sebagodoygutierrez) and find me through the contact information below
+I  usually work with periodic-DFT but have some experience with MD, MonteCarlo, and enjoy graphical design in blender and krita. Check my [page](https://sites.google.com/view/sebagodoygutierrez) and find me through the contact information below
 
 **:id: Information:**
 Seba (he/they), from Chile, living in Paris. :speech_balloon:/:pencil: Spanish (native), english (fluent) and some basic french. :computer: Codding: python and matlab, a little bit of django and html, and learning what I need on the way. :art:Graphics in Krita (2D) and blender (3D).
